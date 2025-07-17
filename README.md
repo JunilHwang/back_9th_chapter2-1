@@ -7,7 +7,8 @@
   - [ERD 개선 셀프 피드백](./docs/3_erd_self-feedback.md)
 - [X] 핵심 기능에 대한 시퀀스 다이어그램이 작성되었는가?
   - [사용자 시나리오와 시퀀스 다이어그램](./docs/2_sequence_diagram_with_scenario.md)
-- [ ] REST 규칙에 따라서 API를 문서화하였는가?
+- [X] REST 규칙에 따라서 API를 문서화하였는가?
+  - [API 스펙 문서화](./docs/4_api_spec.md)
 - [ ] 더미데이터를 제공하는 Mock API를 작성하였는가?
 
 ## Description
