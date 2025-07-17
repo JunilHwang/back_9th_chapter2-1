@@ -2,7 +2,9 @@
 
 - [X] 요구사항을 구체화하고 분석하여 작업 가능한 단위로 정리하였는가?
   - [요구사항 구체화](./docs/1_requirement_spec.md)
-- [ ] 비즈니스 요구사항을 충족하는 ERD가 작성되었는가?
+- [X] 비즈니스 요구사항을 충족하는 ERD가 작성되었는가?
+  - [ERD 작성](./docs/3_erd.md)
+  - [ERD 개선 셀프 피드백](./docs/3_erd_self-feedback.md)
 - [X] 핵심 기능에 대한 시퀀스 다이어그램이 작성되었는가?
   - [사용자 시나리오와 시퀀스 다이어그램](./docs/2_sequence_diagram_with_scenario.md)
 - [ ] REST 규칙에 따라서 API를 문서화하였는가?
