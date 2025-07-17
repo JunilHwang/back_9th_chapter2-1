@@ -427,6 +427,12 @@ describe('E2E 테스트', () => {
             items: expect.any(Array),
             createdAt: expect.any(Number),
             updatedAt: expect.any(Number),
+            payment: {
+              paymentId: expect.any(Number),
+              status: expect.any(String),
+              paidAt: expect.any(Number),
+              failureReason: null,
+            },
           },
           timestamp: expect.any(Number),
         });
